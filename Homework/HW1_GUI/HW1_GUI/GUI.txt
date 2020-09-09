@@ -1,0 +1,5 @@
+﻿I wanted to make this so that it was like a planner and you can add assignments to it and it would save in the calendar 
+and if you hovered over the date it would show if you had an assignment that day or not but I couldn't figure out how
+it worked. That's entirely my fault I thought I had more time than I did but a lot was going on.
+
+To kill the program just click the X button.
