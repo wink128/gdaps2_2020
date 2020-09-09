@@ -1,5 +1,6 @@
 ﻿I wanted to make this so that it was like a planner and you can add assignments to it and it would save in the calendar 
-and if you hovered over the date it would show if you had an assignment that day or not but I couldn't figure out how
-it worked. That's entirely my fault I thought I had more time than I did but a lot was going on.
+and if you hovered over the date it would show if you had an assignment that day or not. If you click the clear button 
+it would clear all the words you entered and the selections you made. If you clicked save it would saveI couldn't figure 
+out how any of it worked. That's entirely my fault I thought I had more time than I did but a lot was going on.
 
 To kill the program just click the X button.
